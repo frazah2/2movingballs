@@ -1,0 +1,26 @@
+
+#blue{
+    background-color: blue;
+    float: left;
+    transition: 0.5s;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 0;
+    left:0;
+    z-index: 1;
+    border-radius: 50%;
+}
+
+#red{
+    background-color: red;
+    float: left;
+    transition: 0.5s;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 0;
+    left: 90%;
+    z-index: 1;
+    border-radius: 50%;
+}
